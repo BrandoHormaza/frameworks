@@ -1,0 +1,56 @@
+.dropdown {
+    margin: 10px solid red;
+    position: relative;
+    bottom: -700px;
+}
+
+.btn-primary {
+    margin: solid 10px purple;
+    border: solid black 5px;
+    position: relative;
+    bottom: -200px;
+}
+
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin: solid 10px;
+    font-size: 30px;
+    background-color: gray;
+    padding-left: 465px;
+
+}
+
+h1{
+    text-align: center;
+    border: solid 50px cyan;
+    border-radius: 50px;
+    background-color: cyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    position: sticky;
+
+}
+
+#imagen {
+    position: absolute;
+    bottom: 0px;
+    right: -4px;
+   
+    
+}
+
+.body{
+    background-color: black;
+    background: black;
+}
+
+#carouselExampleInterval{
+    padding: 500px;
+    position: absolute;
+    bottom: -1000px;
+    right: 87px;
+    float: left;
+    
+}
+
